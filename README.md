@@ -29,10 +29,6 @@
 
 ---
 
-### 🧩 LeetCode Daily Streak & Stats:
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Prabhakaran__1503?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats"/>
-</p>
 
 ---
 
