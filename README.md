@@ -1,38 +1,97 @@
 <!-- 👋 Hi there -->
+
 <h1 align="center">Hi 👋, I'm Prabhakaran</h1>
-<h3 align="center">A Passionate Full Stack Developer & IoT </h3>
+<h3 align="center">CSE (IoT) Student | A Passionate Full Stack Developer & IoT</h3>
 
 ---
 
-### 💫 About Me:
-🌱 I’m currently learning **MERN Stack, DSA, and IoT using ESP32**  
-💡 I love building **real-world projects** that connect hardware & software  
-💬 Ask me about **Java | React | Node.js | ESP32 | DSA**  
-🎯 Goal: **To become a skilled Software Engineer & innovator**  
+## 👨‍💻 About Me
+
+🎓 Computer Science Engineering (IoT) Student
+
+💻 Passionate about Software Development and IoT Systems
+
+🌱 Currently learning **MERN Stack, Data Structures & Algorithms**
+
+🔧 Interested in building **real-world applications and smart IoT solutions**
+
+🎯 Career Goal: **Software Engineer / Full Stack Developer**
 
 
 ---
 
-### 🧭 My Current Focus:
-- 🚀 Building: **Smart IoT Systems** using ESP32 & AI  
-- 🌐 Developing: **Web Apps** with React, Node.js, MongoDB  
-- 💻 Practicing: **DSA on LeetCode & GFG**  
-- ☁️ Exploring: **Cloud & API Integrations**  
-- 🎁 Working on: **Unique Customized Gifts** — personalized photo & art platform  
+## 🧑‍💻 Technical Skills
 
----
+### 🧰 Tech Stack
 
-### 🧰 Tech Stack:
+#### 💻 Programming Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,tailwind,arduino,figma,vscode,postman,firebase" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
 </p>
 
----
+#### 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+</p>
+
+#### 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+#### 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,figma" />
+</p>
+
+#### ⚡ IoT
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
 
 
 ---
 
-### 📚 Coding Profiles:
+## 📂 Academic & Personal Projects
+
+🔹 **ATM Banking System (Java)**
+Console-based ATM simulation using Java with file handling and OOP concepts.
+
+🔹 **Smart Farm IoT System**
+IoT project using ESP32 and sensors to protect crops automatically.
+
+🔹 **Online Gifting Website**
+Frontend e-commerce website for customized gifts built using HTML, CSS, and JavaScript.
+
+🔹 **AI Automated Diagnostic System**
+Hackathon project that predicts health risks using machine learning models.
+
+🔹 **Food Delivery Web Application**
+Basic MERN stack project for food ordering system.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prabhakaran1503&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakaran1503&layout=compact&theme=tokyonight" height="170"/>
+
+</p>
+
+
+
+---
+
+### 🏆 Coding Profiles:
+
 <p align="left">
   <a href="https://leetcode.com/u/Prabhakaran__1503/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
@@ -54,75 +113,24 @@
 
 ---
 
-### 🚀 Featured Projects:
-| Project | Description | Tech Used |
-|----------|--------------|------------|
-| 🧠 [Smart People Counter (ESP32 + AI)](https://github.com/yourusername/smart-people-counter) | IoT + AI project that counts people using sensors & webcam | ESP32, Python, OpenCV |
-| 💡 [Unique Customized Gifts Web App](https://github.com/yourusername/unique_customized_gifts) | E-commerce site for custom photo frames, drawings & gifts | React, Node.js, MongoDB |
-| 🌍 [Portfolio Website](https://your-portfolio-link.com) | Showcases my projects, resume, and contact info | HTML, CSS, JavaScript |
-| ⚙️ [Weather Dashboard](https://github.com/yourusername/weather-dashboard) | Real-time weather updates using OpenWeather API | JS, API, Tailwind |
+## 🌐 Connect With Me
 
----
-
-### 🏆 Achievements:
-- 🥇 Solved **[X]+ problems** on LeetCode & GfG  
-- 💻 Built IoT systems with **ESP32 + Computer Vision**  
-- 🎨 Created **Unique Customized Gifts** business project  
-- 🧩 Participated in hackathons & open-source events  
-- ⭐ Consistent coding streak & contribution growth  
-
----
-
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhakaran1503&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakaran1503&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-
----
-
-### 🏅 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prabhakaran1503&theme=algolia&no-frame=true&margin-w=5" />
-</p>
-
----
-
-### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/prabhakaran-s-607145322/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://instagram.com/your-instagram-id" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-  <a href="mailto:youremail@example.com"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="40" width="40" /></a>
-  <a href="https://your-portfolio-link.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=webflow" height="40" /></a>
+
+<a href="https://github.com/prabhakaran1503">
+<img src="https://skillicons.dev/icons?i=github" height="35"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prabhakaran-s-607145322/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="35"/>
+</a>
+
 </p>
 
 ---
 
-### 🧠 Fun Zone:
-> 💭 “Code. Create. Innovate.”  
-> 🎵 Currently listening to: *Your favorite artist*  
-> 📚 Book: *Clean Code by Robert C. Martin*  
-> ☕ Motto: *Eat → Sleep → Code → Repeat*
-
----
-
-### 🐍 Contribution Snake:
-<p align="center">
-  <img src="https://github.com/prabhakaran1503/prabhakaran1503/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-
----
-
-### 👀 Profile Visitors:
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen" alt="Profile Views"/>
-</p>
-
----
-
-⭐ **_Thanks for visiting my profile!_** 😄  
-_Keep coding, keep creating, and keep learning 🚀_
-
+⭐ *Thank you for visiting my GitHub profile.*
